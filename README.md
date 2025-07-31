@@ -1,8 +1,19 @@
 ## 📊 GitHub Stats
 
-![Ayoub's GitHub Stats](https://github-stats-readme-beta.vercel.app/api?username=ayoubaloui94&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-stats-readme-beta.vercel.app/api/top-langs/?username=ayoubaloui94&layout=compact&theme=github_dark&hide_border=true)
+<table>
+  <tr>
+    <th style="text-align:center">Ayoub's GitHub Stats</th>
+    <th style="text-align:center">Top Languages</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-stats-readme-beta.vercel.app/api?username=ayoubaloui94&show_icons=true&theme=github_dark&hide_border=true" alt="Ayoub's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-stats-readme-beta.vercel.app/api/top-langs/?username=ayoubaloui94&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
