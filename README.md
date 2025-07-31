@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Ayoub
 
 ### Passionate Web Developer | JavaScript/TypeScript | Node.js | React | Next.js
@@ -31,7 +30,7 @@ I'm currently exploring **new opportunities** where I can apply my web developme
 
 ## 📊 GitHub Stats
 
-![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoubaloui&show_icons=true&theme=github_dark&hide_border=true)
+![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoubaloui94&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubaloui&layout=compact&theme=github_dark&hide_border=true)
 
@@ -44,4 +43,4 @@ I'm currently exploring **new opportunities** where I can apply my web developme
 
 ---
 
-*Thanks for stopping by!*
+_Thanks for stopping by!_
