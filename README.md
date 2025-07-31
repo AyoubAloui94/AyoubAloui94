@@ -1,18 +1,13 @@
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+## 📊 GitHub Stats
 
-  <div style="flex: 1; min-width: 300px; max-width: 48%;">
-    <h3 style="text-align: center;">Ayoub's GitHub Stats</h3>
-    <img src="https://github-stats-readme-beta.vercel.app/api?username=ayoubaloui94&show_icons=true&theme=github_dark&hide_border=true" alt="Ayoub's GitHub Stats" style="width: 100%;" />
-  </div>
-
-  <div style="flex: 1; min-width: 300px; max-width: 48%;">
-    <h3 style="text-align: center;">Top Languages</h3>
-    <img src="https://github-stats-readme-beta.vercel.app/api/top-langs/?username=ayoubaloui94&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" style="width: 100%;" />
-  </div>
-
-</div>
+<p align="center">
+  <strong>Ayoub's GitHub Stats</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>Top Languages</strong><br><br>
+  <img src="https://github-stats-readme-beta.vercel.app/api?username=ayoubaloui94&show_icons=true&theme=github_dark&hide_border=true" alt="Ayoub's GitHub Stats" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-readme-beta.vercel.app/api/top-langs/?username=ayoubaloui94&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
