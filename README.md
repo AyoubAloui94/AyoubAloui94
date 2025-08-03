@@ -70,6 +70,7 @@ I'm currently exploring **new opportunities** where I can apply my web developme
 ## 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayoub-aloui-3089b9298/)
+- 🌐 [Portfolio Website](https://alouiayoub.com)
 - 📬 Feel free to reach out via LinkedIn or GitHub for collaborations, opportunities, or just to chat about web development!
 
 ---
